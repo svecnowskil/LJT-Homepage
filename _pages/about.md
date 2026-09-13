@@ -36,11 +36,14 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group. My research
 ## Publications
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv).  
-   *Junteng Liu* (first author), Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
+   *Junteng Liu* (first author), Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.  
+   GitHub code repository available.
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, arXiv).  
-   *Junteng Liu* (first author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
+   *Junteng Liu* (first author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.  
+   GitHub code repository: Vision4Chart.
 3. **On the Universal Truthfulness Hyperplane Inside LLMs**, EMNLP 2024.  
-   *Junteng Liu* (first author), Shiqi Chen, Yu Cheng, Junxian He.
+   *Junteng Liu* (first author), Shiqi Chen, Yu Cheng, Junxian He.  
+   GitHub code repository: Universal_Truthfulness_Hyperplane.
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**, ICML 2024.  
    Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.
 5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**, NeurIPS 2023.  

@@ -11,7 +11,7 @@ repository               : "svecnowskil/LJT-Homepage"
 
 # Site Author
 author:
-  avatar           : ""
+  avatar           :
   name             : "Junteng Liu"
   pronouns         :
   bio              : "First-year PhD candidate at HKUST NLP Group, working on natural language processing and machine learning."
